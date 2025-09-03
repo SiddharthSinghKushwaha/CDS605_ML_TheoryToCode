@@ -2,9 +2,9 @@
 This repository contains Python implementations of machine learning concepts taught in the CDS 605 PhD-level course. Each notebook translates theoretical examples discussed in class into practical, executable code.
 
 ## Key things to understand
-> Mathematical derivations Or background
-> Solving Numberical Examples (For better understanding)
-> Implemention in programming language like Python (Practical Understanding)
+> 1. Mathematical derivations Or background
+> 2. Solving Numberical Examples (For better understanding)
+> 3. Implemention in programming language like Python (Practical Understanding)
 
 ## 📂 Topics Covered till now (3 September, 2025)
 - Linear Regression
