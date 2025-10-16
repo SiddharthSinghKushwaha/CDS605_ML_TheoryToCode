@@ -6,7 +6,7 @@ This repository contains Python implementations of machine learning concepts tau
 > 2. Solving Numerical Examples (For better understanding)
 > 3. Implementation in programming languages like Python (Practical Understanding)
 
-## 📂 Topics Covered till now (3 September, 2025)
+## 📂 Topics Covered till now (14 October, 2025)
 - Linear Regression: [LR_ML_L4](LR_ML_L4.ipynb)
 - Multiple Linear Regression: [MLR_ML_L5](MLR_ML_L5.ipynb)
 - Polynomial Regression: [MLR_ML_L5](MLR_ML_L5.ipynb)
@@ -14,9 +14,10 @@ This repository contains Python implementations of machine learning concepts tau
 - Confusion Matrix: [Confusion_Matrix](Confusion_Matrix.ipynb)
 - Linear Regression Assumptions: [Which_model_to_use?](Which_model_to_use?.ipynb)
 - Logistic Regression (Binary Classification - one Iteration): [Logistic_Regression](Logistic_Regression.ipynb)
-- Bayes Classification algorithm: [Bayes Classifier.ipynb](Bayes_Classifier.ipynb)
-- Decision tree: [Decision tree](Decision_Tree.ipynb)
+- Bayes Classification algorithm: [Bayes Classifier.ipynb](Bayes_Classifier.ipynb)    (PENDING)
+- Decision tree: [Decision tree](Decision_Tree.ipynb)   (PENDING)
 - K-Nearest neighbour: [KNN](knn.ipynb)
+- Correlation: [Cor(fi,fj)](Correlation.ipynb) 
 
 ## 🚀 Getting Started
 ```bash
