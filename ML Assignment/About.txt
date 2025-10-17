@@ -1,0 +1,30 @@
+This assignment is not for grades. This is for practice. It consists of the following sections:
+
+Section A: Numpy 
+    A total of 21 questions are given.
+
+Section B: Pandas
+    A total of 10 questions are given.
+
+Section C: Matplotlib
+    A total of 10 questions are given.
+
+Section D: Scikit-learn
+    Instructions
+        1. Implement the specified algorithm and interpret the algorithm
+        2. Possible source of datasets from the UCI repository or Kaggle
+
+  The following algorithms need to be implemented
+  1. Linear regression
+  2. Logistic regression
+  3. K-Nearest Neighbors Classification
+  4. Naive Bayes Classification
+  5. Decision Trees for Classification
+  6. Random Forest for Feature Importance
+  7. Feature Selection: Wrapper method
+  8. Feature Selection: Filter Method
+  9. Clustering: K-means, GMM, Hierarchical
+
+Additional instructions are also written for implementing the above algorithms. 
+
+Self-Declaration: I will not use any AI assistance for solving any of these questions. These are for learning, not to impress others.
