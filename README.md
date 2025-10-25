@@ -17,7 +17,8 @@ This repository contains Python implementations of machine learning concepts tau
 - Bayes Classification algorithm: [Bayes Classifier.ipynb](Bayes_Classifier.ipynb)    (PENDING)
 - Decision tree: [Decision tree](Decision_Tree.ipynb)   (PENDING)
 - K-Nearest neighbour: [KNN](knn.ipynb)
-- Correlation: [Cor(fi,fj)](Correlation.ipynb) 
+- Correlation: [Cor(fi,fj)](Correlation.ipynb)
+- Principal Component Analysis: [PCA](PCA.ipynb)
 
 ## 🚀 Getting Started
 ```bash
@@ -27,5 +28,5 @@ cd CDS605_ML_TheoryToCode
 ```
 
 ## 📚 Declaration
->I declare that the work presented in this repository is my own. No AI-assisted tools available in Google Colab, including code suggestions or auto-completions powered by AI, were used while writing these Machine Learning programs.
+>I declare that the work presented in this repository is my own. No AI-assisted tools, including code suggestions or auto-completions powered by AI, were used in Google Colab while writing these Machine Learning programs.
 
