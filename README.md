@@ -20,6 +20,9 @@ This repository contains Python implementations of machine learning concepts tau
 - Correlation: [Cor(fi,fj)](Correlation.ipynb)
 - Principal Component Analysis: [PCA](PCA.ipynb)
 
+### ML Project
+- Mobile Dataset Analysis: [Project Code](Mobile_Dataset_Project.ipynb)
+
 ## 🚀 Getting Started
 ```bash
 git clone https://github.com/SiddharthSinghKushwaha/CDS605_ML_TheoryToCode.git
